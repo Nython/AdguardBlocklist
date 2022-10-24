@@ -1,16 +1,48 @@
-||unity3d.com*
-||crashlytics.com*
-||mopub.com*
-||branch.io*
-||urbanairship.com*
-||tiqcdn.com*
-||inmobi.com*
-||applovin.com*
-||liftoff.io*
-||bonad.io*
-||optimizely.com*
-||measure.office.com*
-||google-analytics.com*
-||miui.com*
+### Custom filtering rules
+#
+## Top blocked June 2022 - Nov 2022
+#
+#
+# Wide
+||*collector*
+||*meta.ndmdhs.com*
+||*symcd.com*
+#
+#
+# Medium
 ||app-measurement.com*
+||applovin.com*
+||bonad.io*
+||branch.io*
+||codigo.se*
+||crashlytics.com*
+||doubleclick.net*
 ||getrockerbox.com*
+||google-analytics.com*
+||inmobi.com*
+||liftoff.io*
+||measure.office.com*
+||miui.com*
+||mopub.com*
+||strossle.com*
+||tiqcdn.com*
+||unity3d.com*
+||urbanairship.com*
+||optimizely.com*
+#
+#
+# By Domain
+||adsystem.com^
+||alb.reddit.com^
+||api.mixpanel.com^
+||api-js.mixpanel.com^
+||applvn.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||hicloud.com^
+||iadsdk.apple.com^
+||ichnaea-web.netflix.com^
+||omni-ads.omni.news^
+||onesignal.com^
+||research-int.se^
+||stats.wp.com^
