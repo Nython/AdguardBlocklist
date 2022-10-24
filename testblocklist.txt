@@ -1,1 +1,16 @@
-0.0.0.0 ||unity3d.com*
+||unity3d.com*
+||crashlytics.com*
+||mopub.com*
+||branch.io*
+||urbanairship.com*
+||tiqcdn.com*
+||inmobi.com*
+||applovin.com*
+||liftoff.io*
+||bonad.io*
+||optimizely.com*
+||measure.office.com*
+||google-analytics.com*
+||miui.com*
+||app-measurement.com*
+||getrockerbox.com*
